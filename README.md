@@ -101,7 +101,7 @@ This will:
 
 ## 🔧 Example Workload
 
-Here's a sample `example-workloads/workload-pod-sysbench/workload-pod-sysbench.sh`:
+Here's a sample:
 
 ```bash
 #!/bin/bash
